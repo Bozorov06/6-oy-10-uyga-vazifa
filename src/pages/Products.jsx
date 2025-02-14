@@ -202,3 +202,4 @@ function handleFilter(e) {
 
 export default Products;
 
+

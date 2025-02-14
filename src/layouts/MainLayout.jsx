@@ -5,7 +5,7 @@ function MainLayout({children}) {
   return (
     <div>
         <Header></Header>
-        <div className="container">
+        <div className="container mx-auto">
           {children}
         </div>
     </div>
